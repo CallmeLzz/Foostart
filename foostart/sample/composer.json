@@ -1,3 +1,13 @@
+// Monolog is a library, so the vendor name and package name are the same.
+foostart/sample
+
+// That could be the name of a drupal module (maintained/provided by monolog,
+// if the drupal team did it, the vendor would be drupal).
+foostart/sample
+
+// Acme is a company or person here, they can name their package with a common name (Email).
+// As long as it's in their own vendor namespace it does not conflict with anyone else.
+acme/email
 {
     "name": "foostart/sample",
     "type": "library",
