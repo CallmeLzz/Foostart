@@ -20,5 +20,6 @@
         "psr-0": {
             "foostartnd": "src"
         }
-    }
+    },
+    "foostartnd/sample": "dev-feature/laravel-5 as 2.1.4"
 }
